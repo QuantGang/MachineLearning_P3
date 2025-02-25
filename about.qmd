@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+In this DL session we treat topics such as dense neural networks, convolutional neural networks, and Gaussian processes. Here we keep working with the spam e-mails database, the bike rental company database, and introduce a new penguins characteristics database in order to solve a classification problem.
